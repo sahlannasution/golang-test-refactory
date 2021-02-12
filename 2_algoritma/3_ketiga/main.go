@@ -1,3 +1,8 @@
+/*
+	Maaf kiranya saya salah mengerti dengan maksud soalnya dan maaf jika masih manual pembagian arraynya
+	krna tidak disebutkan harus dengan perulangan atau harus bagi 3 sama rata array nya
+*/
+
 package main
 
 import (
