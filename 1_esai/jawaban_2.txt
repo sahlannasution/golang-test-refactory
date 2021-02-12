@@ -1,0 +1,25 @@
+Jelaskan aturan tentang bahasa pemrograman yang sedang anda kerjakan?
+
+Pertama sekali kita wajib menginstal go compiler untuk menjalankan code kita saat proses development maupun
+untuk compile ke binary file nantinya saat production
+
+Semua file golang berekstensi (.go)
+
+Strukur Golang pada Dasarnya di bagi menjadi 4 yaitu
+
+1. Dekrakasi Package
+Di Golang satu file dapat di jalankan ketika mempunya package main.
+
+2. Import Library
+Import digunakan untuk memanggil library yang ingin kita gunakan. Contoh ketika kita ingin mengimport
+library "fmt"
+
+3. Bagian Fungsi utama / Method Main.
+Di dalam bahasa Golang harus ada satu nama method utama, dimana method tersebut di eksekusi 
+pertama kali saat program tersebut di jalankan, yaitu method main()
+
+4. Ekspresi.
+Bahasa lain ekspresi yaitu statement, ekspresi merupakan sebuah kode bagian terkecil.
+Kode tersebut bisa di artikan suatu kegiatan yang dilakukan.
+
+Dari 4 Struktur dasar golang yang paling penting dari point 1 sampai dengan 3.

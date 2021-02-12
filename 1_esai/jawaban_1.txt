@@ -1,0 +1,15 @@
+Jelaskan secara detail tentang bahasa pemrograman yang sedang anda kerjakan?
+
+Golang atau biasa disebut Go adalah bahasa pemrograman baru yang dikembangkan di Google pada tahun 2007 
+dan mulai diperkenalkan ke publik pada tahun 2009. Bahasa Go sendiri dibuat menggunakan bahasa C dan C++
+itulah kenapa gaya sintaks nya sangat mirip. Golang populer sejak digunakan untuk membuat Docker pada
+tahun 2011.
+
+Saat ini mulai banyak  teknologi baru yang dibuat menggunakan bahasa Golang dibanding bahasa C, seperti
+Kuberbetes, Prometheus, CockroachDB dll. Saat ini mulai populer untuk pembuatan Backend API di Microservices.
+Krna terkenal ringan banget.
+
+Kenapa ringan? Go itu adalah bahasa pemrograman yang di compile source code nya beda dengan PHP, dan Javascript.
+Lebih mirip C ataupun java. Tetapi tidak seperti java yang membutuhkan java runtime untuk menjalankan program yang sudah kita complie tadi.
+Pada Golang kita cukup hanya compile lalu keluaran nya adalah Binary File yang Native sesuai dengan Sistem Operasi
+yang nanti kita akan gunakan. Jadi tidak perlu menginstall go compiler lagi.
